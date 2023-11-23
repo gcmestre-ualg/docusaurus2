@@ -1,8 +1,8 @@
 label: "Tutorial - Basics"
 position: 2
 link:
-  #type: "generated-index"
-  #description: "5 minutes to learn the most important Docusaurus concepts."
-  #title: "Basics"
-  type: "doc"
-  id: "index"
+  type: "generated-index"
+  description: "5 minutes to learn the most important Docusaurus concepts."
+  title: "Basics"
+  #type: "doc"    # Cria um link para um documento
+  #id: "index"    # Nome do ficheiro
