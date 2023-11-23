@@ -1,1 +1,4 @@
 position: 2
+label: "Tutorial - Basics"
+link:
+  type: "generated-index"
