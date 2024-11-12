@@ -4,10 +4,18 @@
         <title>Docusaurus demo site Blog</title>
         <link>https://github.com/docusaurus/blog</link>
         <description>Docusaurus demo site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt</language>
+        <item>
+            <title><![CDATA[How to install]]></title>
+            <link>https://github.com/docusaurus/blog/2024/11/12/-how-to-install</link>
+            <guid>https://github.com/docusaurus/blog/2024/11/12/-how-to-install</guid>
+            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Step 1]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-1">Step 1<a href="#step-1" class="hash-link" aria-label="Link direto para Step 1" title="Link direto para Step 1">​</a></h2>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/docusaurus/blog/welcome</link>

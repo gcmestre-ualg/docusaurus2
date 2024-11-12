@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/docusaurus/blog</id>
     <title>Docusaurus demo site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-11-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/docusaurus/blog"/>
     <subtitle>Docusaurus demo site Blog</subtitle>
     <icon>https://github.com/docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to install]]></title>
+        <id>https://github.com/docusaurus/blog/2024/11/12/-how-to-install</id>
+        <link href="https://github.com/docusaurus/blog/2024/11/12/-how-to-install"/>
+        <updated>2024-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Step 1]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-1">Step 1<a href="#step-1" class="hash-link" aria-label="Link direto para Step 1" title="Link direto para Step 1">​</a></h2>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://github.com/docusaurus/blog/welcome</id>
