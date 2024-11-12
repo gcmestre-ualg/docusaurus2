@@ -1,0 +1,8 @@
+label: "O meu tutorial"
+position: 3
+link:
+  type: "generated-index"
+  description: "O meu site e documentação"
+  title: "Basics"
+  #type: "doc"    # Cria um link para um documento
+  #id: "index"    # Nome do ficheiro
